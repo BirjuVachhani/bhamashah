@@ -6,11 +6,11 @@ This android application facilitates users to avail services such as healthcare,
 
 Splashscreen
 
-![Splashscreen](/images/ss.png | width=700 )
+<img src="https://github.com/BirjuVachhani/bhamashah/blob/master/images/ss.png" width="400">
 
 Bhamashah Dashboard
 
-![Dashboard](/images/dashboard.png)
+<img src="https://github.com/BirjuVachhani/bhamashah/blob/master/images/deshboard.png" width="400">
 
 ## Services
 
@@ -18,24 +18,24 @@ Bhamashah Dashboard
 
     * Hospital list:
 
-      ![hospital](/images/hospital-list.png)
+      <img src="https://github.com/BirjuVachhani/bhamashah/blob/master/images/hospital-list.png" width="400">
 
     * Hospital Description:
 
-      ![Hospital Description](/images/Hospital-description.png)
+      <img src="https://github.com/BirjuVachhani/bhamashah/blob/master/images/Hospital-description.png" width="400">
     
     * List of Appointments:
 
-      ![List of Appointments](/images/List-appointments.png)
+      <img src="https://github.com/BirjuVachhani/bhamashah/blob/master/images/List-appointments.png" width="400">
 2. Job
 
     * Job List:
 
-      ![Job](/images/Job-list.png)
+       <img src="https://github.com/BirjuVachhani/bhamashah/blob/master/images/Job-list.png" width="400">
     
     * Job Details:
 
-        ![Job](/images/Job-details.png)
+         <img src="https://github.com/BirjuVachhani/bhamashah/blob/master/images/Job-details.png" width="400">
 
 ## Impact: 
 
