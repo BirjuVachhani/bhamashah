@@ -6,11 +6,11 @@ This android application facilitates users to avail services such as healthcare,
 
 Splashscreen
 
-<img src="https://github.com/BirjuVachhani/bhamashah/blob/master/images/ss.png" width="400">
+<img src="https://github.com/BirjuVachhani/bhamashah/blob/master/images/ss.png" width="300">
 
 Bhamashah Dashboard
 
-<img src="https://github.com/BirjuVachhani/bhamashah/blob/master/images/deshboard.png" width="400">
+<img src="https://github.com/BirjuVachhani/bhamashah/blob/master/images/deshboard.png" width="300">
 
 ## Services
 
@@ -18,24 +18,24 @@ Bhamashah Dashboard
 
     * Hospital list:
 
-      <img src="https://github.com/BirjuVachhani/bhamashah/blob/master/images/hospital-list.png" width="400">
+      <img src="https://github.com/BirjuVachhani/bhamashah/blob/master/images/hospital-list.png" width="300">
 
     * Hospital Description:
 
-      <img src="https://github.com/BirjuVachhani/bhamashah/blob/master/images/Hospital-description.png" width="400">
+      <img src="https://github.com/BirjuVachhani/bhamashah/blob/master/images/Hospital-description.png" width="300">
     
     * List of Appointments:
 
-      <img src="https://github.com/BirjuVachhani/bhamashah/blob/master/images/List-appointments.png" width="400">
+      <img src="https://github.com/BirjuVachhani/bhamashah/blob/master/images/List-appointments.png" width="300">
 2. Job
 
     * Job List:
 
-       <img src="https://github.com/BirjuVachhani/bhamashah/blob/master/images/Job-list.png" width="400">
+       <img src="https://github.com/BirjuVachhani/bhamashah/blob/master/images/Job-list.png" width="300">
     
     * Job Details:
 
-         <img src="https://github.com/BirjuVachhani/bhamashah/blob/master/images/Job-details.png" width="400">
+         <img src="https://github.com/BirjuVachhani/bhamashah/blob/master/images/Job-details.png" width="300">
 
 ## Impact: 
 
