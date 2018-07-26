@@ -5,9 +5,11 @@ This android application facilitates users to avail services such as healthcare,
 ## Product Demo
 
 Splashscreen
+
 <kbd>
 <img src="https://github.com/BirjuVachhani/bhamashah/blob/master/images/ss.png" width="300">
 </kbd>
+
 Bhamashah Dashboard
 
 <img src="https://github.com/BirjuVachhani/bhamashah/blob/master/images/deshboard.png" width="300">
