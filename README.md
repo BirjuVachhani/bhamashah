@@ -6,7 +6,7 @@ This android application facilitates users to avail services such as healthcare,
 
 Splashscreen
 
-<img src="https://github.com/BirjuVachhani/bhamashah/blob/master/images/ss.png" width="300">
+<img src="https://github.com/BirjuVachhani/bhamashah/blob/master/images/ss.png" width="300" style="border:1px solid black">
 
 Bhamashah Dashboard
 
