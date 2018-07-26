@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Bhamashah</string>
+    <string name="rajasthan_government">Rajasthan Government</string>
+    <string name="powered_by">Powered by</string>
+    <string name="call">Call</string>
+    <string name="book_appointment">Book\nAppointment</string>
+
+    <string-array name="services">
+        <item>Healthcare</item>
+        <item>Jobs</item>
+        <item>Market</item>
+        <item>Account</item>
+    </string-array>
+
+    <string-array name="hospital_details">
+        <item>1:Satellite Hospital:Sethi colony:Jaipur:Heart,kidney,lungs,Lever:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>2:PBM Hospital:Sethi colony:Jaipur:Eye:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>3:Acharya Tulsi Hospital:Sethi colony:Jaipur:Heart,kidney,lungs,Lever:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>4:Amity Hospital:Sethi colony:Jaipur:Heart,kidney:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>5:Sankracharya Hospital:Sethi colony:Jaipur:Gynaecologist:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>6:Amit Hospital:Sethi colony:Jaipur:Heart,Lever:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>7:ASG eye Hospital:Sethi colony:Jodhpur:eye:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>8:Sekhavati Hospital:Sethi colony:Jaipur:Heart,kidney,lungs,Lever:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>9:Sarvaiya Hospital:Sethi colony:Jaipur:Heart,kidney,lungs,Lever:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>10:Kamlanagar Hospital:Sethi colony:Jaipur:Heart,kidney,lungs,Lever:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>11:Manipal Hospital:Sethi colony:Jaipur:Heart,kidney,lungs,Lever:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>12:Fortis Escorts Hospital:Modi colony:Fatehpur:Heart,kidney,lungs,Lever:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>13:Mathuradas Hospital:Ramdev colony:Jaipur:Heart,kidney,lungs,Lever:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>14:Monilic Hospital:Shivrajsinh colony:Bikaner:Heart,kidney,lungs,Lever:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>15:Rajasthan Hospital:Maharaja colony:Bikaner:Heart,kidney,lungs,Lever:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>16:Sri Ram Hospital:Pratibha colony:Kota:Heart,kidney,lungs,Lever:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>17:Shaym Hospital:Sharma colony:Jaipur:Heart,kidney,lungs,Lever:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>18:Vallabh Hospital:dummy colony:Jodhpurpur:Heart,kidney,lungs,Lever:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>19:Parivar Hospital:Pali colony:Udaipur:Heart,kidney,lungs,Lever:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>20:Satellite Hospital:Sethi colony:Jaipur:Heart,kidney,lungs,Lever:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>21:PBM Hospital:Sethi colony:Jaipur:Eye:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>22:Acharya Tulsi Hospital:Sethi colony:Jaipur:Heart,kidney,lungs,Lever:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>23:Amity Hospital:Sethi colony:Jaipur:Heart,kidney:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>24:Sankracharya Hospital:Sethi colony:Jaipur:Gynaecologist:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>25:Amit Hospital:Sethi colony:Jaipur:Heart,Lever:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>26:ASG eye Hospital:Sethi colony:Jodhpur:eye:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>27:Sekhavati Hospital:Sethi colony:Jaipur:Heart,kidney,lungs,Lever:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+        <item>28:Sarvaiya Hospital:Sethi colony:Jaipur:Heart,kidney,lungs,Lever:This is Hospital was built under the Healthcare act 2002 for public welfare in towns and city of the country.It provides with all basic multispeciality amenitites that operates all over the city.The hospital has two fully equipped ambulances for emergency purposes.</item>
+    </string-array>
+
+    <string-array name='jobs'>
+        <item>1:Web Developer:Swagger Inc.:Jaypur</item>
+        <item>2:Marketing:India Mart:Bikaner</item>
+        <item>3:Customer Executive:Vodafone India:Udaypur</item>
+        <item>4:Fitter:Dhyey Electronics:Kota</item>
+        <item>5:Teacher:Rajasthan public school:Jodhpur </item>
+        <item>6:Clerk:Rajasthan High court:Jaypur</item>
+        <item>7:Manager:TCC Group pvt. ltd:Bikaner</item>
+        <item>8:Worker:RC Traders:Pali</item>
+        <item>9:Team Leader:CP Infocom:Junaghr</item>
+        <item>10:Teacher:Spoken English:Kota</item>
+        <item>11:IT:Web Developer:Swagger Inc.:Jaypur</item>
+        <item>12:Marketing:India Mart:Bikaner</item>
+        <item>13:Customer Executive:Vodafone India:Udaypur</item>
+        <item>14:Fitter:Dhyey Electronics:Kota</item>
+        <item>15:Teacher:Rajasthan public school:Jodhpur </item>
+    </string-array>
+
+</resources>
